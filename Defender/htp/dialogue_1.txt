@@ -1,0 +1,6 @@
+At the top, you can use the fire spell,
+These are meteorites that fall
+from the sky, so think about where
+the enemies will be when the meteorites
+hit the ground.
+casts the spell to continue.

@@ -1,0 +1,6 @@
+<Towers>
+    <archery damage=35 range=350/>
+    <archery2 damage=45 range=400/>
+    <magic1 damage=8 range=350/>
+    <magic2 damage=18 range=350/>
+</Towers>

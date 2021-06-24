@@ -1,0 +1,47 @@
+USAGE:
+
+    [start]     ./my_defender
+    [helper]    ./my_defender -h
+
+DESCRIPTION:
+
+    To start the game, run the command ./my_defender
+    To modify the turrets statistics, an XML file is available in the config folder. If the statistics are not valid, default settings will be used.
+
+    you will arrive on a menu, in the middle there will be a play button to start a game,
+    on the top left there will be buttons to mute the sound and go to the settings menu,
+    on the bottom left there will be a button to display the "How To Play",
+
+    In the game you will have a map with a path where the monsters will move, the goal is to place towers to kill the monsters before they reach the end of the path.
+    If a monster reaches the end of the path you lose a certain amount of health points depending on the value of the monster. If you kill a monster you get money.
+    Watch your money, your life and the waves on the top left.
+
+    To place a tower, click on a tower location that will be highlighted on hover, a purchase menu will appear with 4 tower proposals. Be careful,
+    you can see your current money on the top left, if you don't have enough money you won't be able to buy towers.
+
+    You can also sell towers by clicking
+    on a tower you have purchased and selecting
+    the sell icon on the menu that appears.
+
+    On the top left, there are also spells available, a fire spell and an ice spell.
+    The fire spell inflicts heavy damage while the ice spell slows down the enemies.
+
+    The pause menu has 3 buttons and two sound bars,
+    The left button allows you to return to the menu, the middle one to resume the game,
+    the right one to quit the game.
+
+    To learn how to play,
+    feel free to launch the How To Play,
+    To skip the text animation press enter
+    and do the action requested by the text to move on
+    of the how to play. Once the How To Play is finished you should be able to
+    finish the game without too much difficulty.
+
+    To have 3 stars you must have between 20 and 15 life points
+    at the end of the game.
+    between 10 and 15 for 2 stars, below 10 for 1 star.
+    If you lose the game you will not get any stars :(
+    Moreover, the final score is calculated with the formula
+    life points x 100 + remaining gold.
+
+    Thanks to shoroune for the graphics.

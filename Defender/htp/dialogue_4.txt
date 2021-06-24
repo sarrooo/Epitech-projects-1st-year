@@ -1,0 +1,6 @@
+There are four types of towers, divided into
+two categories. Archers' towers and
+magic towers. Archer towers are single shot
+with heavy damage while magic towers attack
+all targets within range with lower damage.
+Spend 100 gold or more to move on.

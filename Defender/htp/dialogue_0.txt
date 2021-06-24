@@ -1,0 +1,6 @@
+Hi player, You can press Escape Key,
+to return at the menu.
+Here are some basic mechanics to win
+your games. you can press the Enter key
+to skip the writing animation
+and move on to the next step.

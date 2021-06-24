@@ -1,0 +1,8 @@
+You now know all the mechanics of the game,
+all you have to do is start a game.
+To get 3 stars, you must have more than
+15 life points, 2 stars between 10 and 15
+and 1 star if you pass the level below
+Press the enter key to finish this
+tutorial and return to the menu,
+I trust you to win!

@@ -1,0 +1,7 @@
+Well done, you can now cast spells.
+However, this will not be enough.
+You will have to build towers, but before that
+you can see your money in the top left corner,
+as well as your life and the number
+of remaining waves.
+Press the enter key to continue.

@@ -1,0 +1,6 @@
+Well, after casting a spell
+a cooldown of 15 seconds
+is applied to the spell.
+The second spell is a freeze spell.
+It slows down enemies by 50%,
+try it to move on.

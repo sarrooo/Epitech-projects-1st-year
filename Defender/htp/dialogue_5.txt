@@ -1,0 +1,7 @@
+You can also pause the game
+with the button at the top right or the
+Escape, On the pause menu, the left button allows
+to return to the menu, while the right button
+allows you to exit the game.
+To continue, activate the pause menu and
+press the play button to resume the game.
