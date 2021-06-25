@@ -1,6 +1,6 @@
 Welcome to my Epitech's project repo
 
-You can try 5 projects that I develop during my first year at Epitech, with C language.
+You can try 4 projects that I develop during my first year at Epitech, with C language.
 
 Antman:
 A program that compress and uncompress HTML, Image and Text files.
